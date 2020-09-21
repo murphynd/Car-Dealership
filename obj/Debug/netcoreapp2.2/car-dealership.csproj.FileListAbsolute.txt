@@ -1,0 +1,11 @@
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/car-dealership.deps.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/car-dealership.runtimeconfig.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/car-dealership.runtimeconfig.dev.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/car-dealership.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/car-dealership.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.csprojAssemblyReference.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.csproj.CoreCompileInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.AssemblyInfoInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.AssemblyInfo.cs
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/car-dealership.pdb

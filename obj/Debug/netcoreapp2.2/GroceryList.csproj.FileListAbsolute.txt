@@ -1,0 +1,11 @@
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.deps.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.dev.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.csprojAssemblyReference.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.csproj.CoreCompileInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfoInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfo.cs
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.pdb
