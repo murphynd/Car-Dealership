@@ -36,6 +36,8 @@ namespace Dealership
         Console.WriteLine(automobile.GetMakeModel());
         Console.WriteLine(automobile.GetMiles() + " miles");
         Console.WriteLine("$" + automobile.GetPrice());
+        Console.WriteLine(automobile.MakeSound("Bang!"));
+        Console.WriteLine(Car.Slogan("you leaving the lot."));
       }
     }
   }

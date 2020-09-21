@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/car-dealership.csproj",
+      "projectUniqueName": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/Car Dealership/car-dealership.csproj",
       "projectName": "car-dealership",
-      "projectPath": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/car-dealership.csproj",
+      "projectPath": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/Car Dealership/car-dealership.csproj",
       "packagesPath": "/Users/nataliemurphy/.nuget/packages/",
-      "outputPath": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/GroceryList/obj/",
+      "outputPath": "/Users/nataliemurphy/Desktop/Epicodus/cSharp/Car Dealership/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
